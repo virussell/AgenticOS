@@ -1,0 +1,1 @@
+Agentic OS is your personal assistant for life and project management. Customize it to suit your needs and train it to work your way: automate routine tasks with AI-agents and manage everything remotely. It’s free.
